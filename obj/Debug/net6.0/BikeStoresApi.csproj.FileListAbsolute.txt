@@ -30,3 +30,5 @@ D:\DotnetApi\BikeStoresApi\obj\Debug\net6.0\refint\BikeStoresApi.dll
 D:\DotnetApi\BikeStoresApi\obj\Debug\net6.0\BikeStoresApi.pdb
 D:\DotnetApi\BikeStoresApi\obj\Debug\net6.0\BikeStoresApi.genruntimeconfig.cache
 D:\DotnetApi\BikeStoresApi\obj\Debug\net6.0\ref\BikeStoresApi.dll
+D:\DotnetApi\BikeStoresApi\bin\Debug\net6.0\AutoMapper.dll
+D:\DotnetApi\BikeStoresApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
